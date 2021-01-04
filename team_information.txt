@@ -1,0 +1,13 @@
+///////////////////////////////////////////
+idea title : xText Editor
+///////////////////////////////////////////////////
+team members : 
+	1- (احمد محمود صالح ابراهيم , ahmed mahmoud saleh , 20170067);
+	2-(محمد السيد صلاح,Mohamed elsaid Salah,20170419);
+	3-(دينا محسن محمد محمود,Dina mohsen mohamed mahmoud,20170210);
+	4-(بسنت مجدي عبدالشافي, bassant magdy abdelshafy,20170153);
+	5-(فرحه جلال توفيق غازي,Farha Jalal Tawfiq Ghazi,20170377);
+/////////////////////////////////////////////
+	
+registration sheet, row number: 21 
+
